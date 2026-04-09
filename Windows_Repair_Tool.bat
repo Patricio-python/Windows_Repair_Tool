@@ -19,5 +19,5 @@ echo Executando System File Checker.
 echo Verificando e reparando arquivos do sistema corrompidos ou ausentes...
 sfc /scannow
 echo.
-echo ######## REPARO COMPLETE ########
+echo ######## REPARO COMPLETO ########
 pause
